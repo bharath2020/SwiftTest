@@ -9,7 +9,7 @@
 import Foundation
 
 public class Calci {
-    static func display() {
+    public static func display() {
         print("Hello Calci");
     }
 
@@ -17,7 +17,7 @@ public class Calci {
 
     }
 
-    func display1() {
+    public func display1() {
         print("Hello Calci - 1");
     }
 }
