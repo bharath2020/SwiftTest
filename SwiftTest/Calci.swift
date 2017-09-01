@@ -17,6 +17,10 @@ public class Calci: Codable {
 
     }
 
+    public func getKey() -> NSAttributedStringKey {
+        return NSAttributedStringKey.backgroundColor
+    }
+
     public func display1() {
         print("Hello Calci - 1");
     }
