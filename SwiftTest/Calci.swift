@@ -8,7 +8,7 @@
 
 import Foundation
 
-public class Calci {
+public class Calci: Codable {
     public static func display() {
         print("Hello Calci");
     }
