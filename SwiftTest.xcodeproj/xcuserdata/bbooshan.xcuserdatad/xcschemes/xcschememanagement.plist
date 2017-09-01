@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>SwiftTestDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>596C78E81F59B9590029C16C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>596C78F91F59BA910029C16C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
